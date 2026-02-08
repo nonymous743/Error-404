@@ -10,7 +10,7 @@ body{
 }
 
 .four_zero_four_bg {
-  background-image: url(bg.gif);
+  background-image: url(404-error.gif);
   height: 500px;
   background-position: center;
 }
